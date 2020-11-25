@@ -1,0 +1,58 @@
+
+Helpful resource links:
+ - Read FITS data format in python
+ https://docs.astropy.org/en/stable/io/fits/
+
+ - Use wget to download k2 and Kepler data
+ sh {filename}.dat to download the required data
+
+ - Kepler data handbook and documents
+ https://keplergo.arc.nasa.gov/Documentation.shtml
+
+ - Kepler data resource
+ https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblSearch/nph-tblSearchInit?app=ExoTbls&config=keplerstellar
+
+- Convert Kepler data to light curves smooth data
+ https://docs.lightkurve.org/tutorials/03-appending-lightcurves.html
+
+- Software tools to interact the data
+ https://keplerscience.arc.nasa.gov/software.html
+
+- Data validation pdf
+https://iopscience.iop.org/article/10.1088/1538-3873/aaf44d
+
+- Data understand
+https://exoplanetarchive.ipac.caltech.edu/docs/datasethelp/AXA.html
+
+https://www.researchgate.net/figure/Example-raw-light-curves-from-Kepler-quarter-1-data-The-30-light-curves-shown-were_fig1_255965786
+
+- Data for kepler ID planet candidates (PC)
+https://archive.stsci.edu/kepler/planet_candidates.html
+
+- Data Analysis of the First Four Months of Data
+https://ui.adsabs.harvard.edu/abs/2011ApJ...736...19B/abstract
+
+- kepler data light curves files
+https://archive.stsci.edu/kepler/download_options.html
+
+- Automvetter paper
+https://arxiv.org/pdf/1408.1496.pdf
+
+- Another library to get Kepler data
+http://dfm.io/kplr/
+
+- Simulated data link
+https://exoplanetarchive.ipac.caltech.edu/docs/KeplerSimulated.html
+
+http://exoplanetarchive.ipac.caltech.edu/
+http://archive.stsci.edu/
+
+-- Software tools
+https://keplerscience.arc.nasa.gov/software.html
+
+-- ML pipeline to generate lightcurve
+https://docs.lightkurve.org/tutorials/05-advanced_patterns_binning.html
+
+https://medium.com/data-science-in-your-pocket/vehicle-number-plate-detection-and-ocr-tcs-humain-2019-a253019e52a1
+
+https://spacetelescope.github.io/notebooks/notebooks/MAST/Kepler/Kepler_Lightcurve/kepler_lightcurve.html
